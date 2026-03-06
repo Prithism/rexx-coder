@@ -1,12 +1,8 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 I'm Prithibe Majumder — a UI/UX Designer, Equity Analyst, and Python Developer based in India. 
 
 Passionate about building data-driven tools and intuitive user experiences. I combine design thinking with quantitative analysis to turn complex data into actionable insights. 🚀
-
-## About Me
 
 ## About Me
 
@@ -132,6 +128,7 @@ Badges:
 Notes:
 
 - No public email listed. If you'd like to collaborate, please reach out via LinkedIn or open an issue on a relevant repository.
+
 
 
 
